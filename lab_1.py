@@ -1,3 +1,4 @@
+""" This  code is used to detect all the  moving object that are being displayed on the screen """
 from ultralytics import YOLO
 
 model = YOLO("yolov8n.pt") 
